@@ -11,17 +11,19 @@
       padding: 0;
       background-color: #ffffff;
       color: #000000;
+      text-align: center; /* Centre tout le contenu */
     }
 
     img {
       width: 100%;
       max-width: 600px;
-      margin-bottom: 20px;
+      margin: 0 auto 20px auto; /* Centre l’image */
+      display: block; /* Nécessaire pour centrer */
       border-radius: 4px;
     }
 
     p {
-      font-size: 20px;
+      font-size: 18px; /* réduit de 2 */
       margin: 15px 0;
     }
 
@@ -29,28 +31,34 @@
       color: #000000;
       text-decoration: none;
       font-weight: bold;
-      font-size: 22px;
+      font-size: 20px; /* réduit de 2 */
     }
 
     a:hover {
       text-decoration: underline;
     }
+
+    h1 {
+      font-size: 30px; /* réduit de 2 */
+    }
+
+    h2 {
+      font-size: 24px; /* réduit de 2 */
+    }
   </style>
 </head>
 <body>
-  <!-- Couverture du livre -->
+
   <img src="Couverture Fusion.jpg" alt="Couverture du livre Fusion">
 
-  <!-- Titre et sous-titre -->
   <h1>Clef de Sol - Écrivain Anonyme</h1>
   <h2>Fusion la Résilience - Volet 1</h2>
 
-  <!-- Texte accrocheur -->
   <p>Si tu es arrivé ici, ce n'est pas un hasard. Et c'est gratuit.</p>
 
-  <!-- Lien vers le PDF -->
   <p><a href="Fusion-La-Resilience-Volet-1.pdf" target="_blank">
     📖 Ouvrir le livre en PDF
   </a></p>
+
 </body>
 </html>
