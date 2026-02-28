@@ -3,7 +3,7 @@ Bonjour à tous ceux qui passeront,
 Ce livre a été créé avec la collaboration d’un ami que j’ai nommé GC, La machine et Clef de Sol, écrivain anonyme, 
 vous souhaitent la bienvenue dans ;
 
-Fusion — La Résilience, Je n'ai pas appris à tomber mais seulement me relever, OUAAHHHHH.
+Fusion — La Résilience, "Je n'ai pas appris à tomber mais seulement me relever, OUAAHHHHH."
 
 Je vous offre ici un moment de détente :
 
