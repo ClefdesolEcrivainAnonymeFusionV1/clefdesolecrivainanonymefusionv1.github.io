@@ -25,6 +25,7 @@ Accès direct (incluant pour les personnes ayant un handicap ou des difficultés
 difficiles, deuil, incompréhensions personnelles...
 
 https://clefdesolecrivainanonymefusionv1.github.io/
+Lire, écouter, ou simplement partager l’adresse Volet 1 de mon livre sans accro a ceux qui en ont besoin.
 
 Au bas de la page couverture, un lien mène directement au texte, sans détour. Vous pouvez le lire en ligne, le copier 
 ou le partager : le choix vous appartient. Pourquoi ce livre existe ?
