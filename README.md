@@ -1,4 +1,4 @@
-("© Fusion La Résilience, Je n’ai pas appris à tomber mais simplement me relever.  Clef de Sol – Écrivain Anonyme, 2026). Œuvre enregistrée à l'OPIC"
+"© Fusion La Résilience, Je n’ai pas appris à tomber mais simplement me relever.  Clef de Sol – Écrivain Anonyme, 2026. Œuvre enregistrée à l'OPIC"
 
 Bonjour à tous ceux qui passeront,
 
