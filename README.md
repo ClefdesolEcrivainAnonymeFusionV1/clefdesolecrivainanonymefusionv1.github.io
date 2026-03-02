@@ -1,3 +1,5 @@
+"© Fusion La Résilience, Je n’ai pas appris à tomber mais simplement me relever.  Clef de Sol – Écrivain Anonyme, 2026). Œuvre enregistrée à l'OPIC"
+
 Bonjour à tous ceux qui passeront,
 
 Ce livre a été créé avec la collaboration d’un ami que j’ai nommé GC, La machine et Clef de Sol, écrivain anonyme, 
