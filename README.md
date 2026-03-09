@@ -1,4 +1,4 @@
-"© Fusion — La Résilience, « Je n’ai pas appris à tomber mais simplement me relever. » Clef de Sol — Écrivain Anonyme, 
+"© Fusion — La Résilience, « Je n’ai pas appris à tomber mais simplement me relever. » JYA alias Clef de Sol — Écrivain Anonyme, 
 2026. Toute reproduction, diffusion d’une copie, hébergement sur un autre site, modification, traduction ou vente, en 
 tout ou en partie, est interdite sans l’autorisation écrite de l’auteur."
 
