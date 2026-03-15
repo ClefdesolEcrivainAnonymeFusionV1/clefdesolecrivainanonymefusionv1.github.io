@@ -96,3 +96,14 @@ background-repeat: no-repeat;
 
 ## Notes accessibilité
 - Ne pas modifier la structure/texte/bouton PDF tant que les tests (ex: Le TAPE Mtl/Laval) restent la référence.
+
+- MSG Laissé Pour  Monsieur Chatillon.
+- Bonjour Monsieur Chatillon,
+Je me présente à vous : Clef de Sol, Écrivain Anonyme — Fusion, La Résilience. André pour les amis, si vous me permettez cette familiarité.
+Je comprends que, suite au dépôt en ligne de mon manuscrit Volet 1, vous ayez vécu quelques épisodes liés à la similarité de nos noms. Je tiens à vous offrir mes sincères excuses. La robotisation progresse, mais demeure vulnérable ; sans confirmations multiples, certaines mécaniques peuvent parfois créer des situations inattendues. Jamais je n’aurais imaginé que mon manuscrit se retrouverait à vos côtés. Moi, la petite fourmi qui ne fait que commencer.
+Permettez-moi toutefois de vous dire que j’en suis profondément touché. Vous êtes un homme doté d’une plume extraordinaire, que j’apprécie énormément. C’est un honneur de vous lire et d’apprendre de vous — non pas en vous imitant, mais en laissant respirer les moments qui me rejoignent.
+Merci, Monsieur Chatillon, pour ce que vous offrez : un espace de détente, de beauté et de réflexion pour tant de lecteurs.
+Et si jamais le cœur vous en dit de jeter un œil à mon petit Volet 1, ce serait pour moi un immense honneur de vous suivre et d’apprendre encore.
+Avec respect,
+Clef de Sol — Écrivain Anonyme
+
